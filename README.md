@@ -1,7 +1,12 @@
 # Poor-Mans-Block-Clock
- 
-If you find that the program does not run then you may need to install the requests module. Info below
 
+Latest version has a 60 sec  auto refresh making it similer to how you would expect a clock to work.  You can also use the update function to manually update.
+
+
+
+Issues....
+
+If you find that the program does not run then you may need to install the requests module. Info below
 
 Requests is not a built in module (does not come with the default python installation), so you will have to install it:
 
